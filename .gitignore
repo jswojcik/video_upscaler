@@ -1,0 +1,19 @@
+# Videos
+videos/
+
+# Virtual environment
+upscale-env/
+
+# Model weights
+Real-ESRGAN/weights/*.pth
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Egg info
+*.egg-info/
+
+# OS
+.DS_Store
